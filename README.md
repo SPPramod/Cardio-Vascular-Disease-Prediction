@@ -1,8 +1,59 @@
-# CARDIO BUDDY 
-is a software based on the machine learning classifier model, which provides a user friendly, interface that helps to predict individuals that are prone to CVD ( Cardio Vascular Disease ) , based on their laboratory report .
-This software uses well-known and trusted machine learning models [ Support Vector 
-Machine, K- Nearest Neighbour, Decision Tree, Random Forest ] to give the accurate prediction on the lab reports .
+# CARDIO BUDDY
 
-Here we can predict individual person's data or we can upload a dataset and get the Patient Id's of individuals who are prone to CVD . 
-When the individual person's data is used to predict the output is saved in a excel file which can be further used for more analysis. 
+**CARDIO BUDDY** is a machine learning-based software application designed to predict individuals prone to Cardiovascular Disease (CVD) based on their laboratory reports. The application features a user-friendly interface and employs well-known and trusted machine learning models, including Support Vector Machine, K-Nearest Neighbour, Decision Tree, and Random Forest, to deliver accurate predictions.
 
+---
+
+## Project Description
+
+CARDIO BUDDY utilizes machine learning classifiers to assess laboratory report data and predict the likelihood of an individual developing cardiovascular disease. By leveraging established machine learning algorithms, the software provides reliable predictions that can be crucial for early diagnosis and preventive healthcare measures.
+
+## Features
+
+- **Individual Predictions**: Enter personal laboratory report data to receive predictions about CVD risk.
+- **Batch Predictions**: Upload a dataset to evaluate multiple individuals at once and obtain the Patient IDs of those at risk.
+- **Output Analysis**: Predictions are saved in an Excel file for further analysis and record-keeping.
+
+## Machine Learning Models Used
+
+This application implements the following machine learning models for CVD prediction:
+- **Support Vector Machine (SVM)**
+- **K-Nearest Neighbour (KNN)**
+- **Decision Tree**
+- **Random Forest**
+
+---
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/SPPramod/Cardio-Vascular-Disease-Prediction.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Cardio-Vascular-Disease-Prediction
+    ```
+    
+---
+
+## Usage
+
+1. Launch the application.
+2. Input individual laboratory report data to get a prediction of CVD risk.
+3. Alternatively, upload a dataset to analyze multiple individuals and receive a list of Patient IDs at risk.
+4. Review the output Excel file for predictions and further analysis.
+
+---
+
+## Clone the Repository
+
+To clone this repository, run the following command:
+
+```bash
+git clone https://github.com/SPPramod/Cardio-Vascular-Disease-Prediction.git
