@@ -42,9 +42,9 @@ To set up the project locally, follow these steps:
     
 ---
 
-## Screenshots
+## User Interface
 
-![Cardio Buddy Interface]()  
+![Cardio Buddy Interface](https://github.com/SPPramod/Cardio-Vascular-Disease-Prediction/blob/5a1217b3d22d1b0cce5b08585e00efd72a31d837/Cardio%20Buddy.png)  
 *User Interface of CARDIO BUDDY*
 
 ---
