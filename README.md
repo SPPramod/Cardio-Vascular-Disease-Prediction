@@ -42,6 +42,13 @@ To set up the project locally, follow these steps:
     
 ---
 
+## Screenshots
+
+![Cardio Buddy Interface]()  
+*User Interface of CARDIO BUDDY*
+
+---
+
 ## Usage
 
 1. Launch the application.
